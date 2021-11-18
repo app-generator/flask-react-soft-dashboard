@@ -57,7 +57,7 @@ After we register a new user and Sign IN, all the private pages become accessibl
 
 <br />
 
-![Flask React Soft Dashboard - Open-source full-stack product with Flask API Backend.](https://user-images.githubusercontent.com/51070104/142229301-fb70f20d-913d-496d-822e-e170cc8c8573.gif)
+![Flask React Soft Dashboard - Open-source full-stack product with Flask API Backend.](https://user-images.githubusercontent.com/51070104/142403839-1488457d-0ea6-4b18-8f25-d19a9acf101e.gif)
 
 <br >
 
@@ -189,13 +189,19 @@ authorization: JWT_TOKEN (returned by Login request)
 
 > **Flask React Soft UI Dashboard** - Login 
 
-![Flask React Soft UI Dashboard - Login.](https://user-images.githubusercontent.com/51070104/142229429-c3a3d8eb-f535-4d0c-9a01-e59bc74e08db.png)
+![Flask React Soft UI Dashboard - Login.](https://user-images.githubusercontent.com/51070104/142403942-3a2228e6-c769-4259-8e78-c000056db7c4.png)
 
 <br />
 
 > **Flask React Soft UI Dashboard** - User Profile
 
-![Flask React Soft UI Dashboard - User Profile](https://user-images.githubusercontent.com/51070104/142229572-a313ac1c-e798-49cc-a86c-2e0ab9ead00a.png)
+![Flask React Soft UI Dashboard - User Profile](https://user-images.githubusercontent.com/51070104/142403992-81e86dc5-4d73-4cca-8a1b-300a0f5475a0.png)
+
+<br />
+
+> **Flask React Soft UI Dashboard** - Billing Page
+
+![Flask React Soft UI Dashboard - Billing Page.](https://user-images.githubusercontent.com/51070104/142404073-68b96008-fb06-4ff5-98cf-c8e3eca636c9.png)
 
 <br />
 
