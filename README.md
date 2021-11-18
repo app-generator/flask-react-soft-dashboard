@@ -14,7 +14,7 @@ Start your development with an Innovative Admin Template for **Material-UI** and
 
 > Links
 
-- [Flask React Soft UI Dashboard](https://appseed.us/product/flask-react-soft-dashboard - product page
+- [Flask React Soft UI Dashboard](https://appseed.us/product/flask-react-soft-dashboard) - product page
 - [Flask React Soft UI Dashboard](https://flask-react-soft-dashboard.appseed-srv1.com/authentication/sign-in) - LIVE Demo
 - Free Support via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
