@@ -213,4 +213,4 @@ authorization: JWT_TOKEN (returned by Login request)
 <br />
 
 ---
-**[Flask React Soft UI Dashboard](https://appseed.us/product/flask-react-soft-dashboard** - Open-source full-stack seed project provided by **AppSeed [App Generator](https://appseed.us/)**
+**[Flask React Soft UI Dashboard](https://appseed.us/product/flask-react-soft-dashboard)** - Full-Stack seed project provided by **AppSeed [App Generator](https://appseed.us/)**
