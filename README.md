@@ -3,6 +3,8 @@
 Start your development with an Innovative Admin Template for **Material-UI** and **React**. `Soft UI Dashboard` is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. 
 The product comes with a simple `JWT authentication flow`: **login/register/logout**. 
 
+<br />
+
 > Features
 
 - Innovative **Material UI** Design - Creafted by [Creative-Tim](https://bit.ly/3fKQZaL)
@@ -15,9 +17,9 @@ The product comes with a simple `JWT authentication flow`: **login/register/logo
 
 > Links
 
-- [Flask React Soft UI Dashboard](https://appseed.us/product/flask-react-soft-dashboard) - product page
-- [Flask React Soft UI Dashboard](https://flask-react-soft-dashboard.appseed-srv1.com/authentication/sign-in) - LIVE Demo
-- Free Support via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup).
+- 👉 [Flask React Soft UI Dashboard](https://appseed.us/product/flask-react-soft-dashboard) - product page
+- 👉 [Flask React Soft UI Dashboard](https://flask-react-soft-dashboard.appseed-srv1.com/authentication/sign-in) - LIVE Demo
+- 👉 Free Support via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
@@ -31,7 +33,7 @@ The product comes with a simple `JWT authentication flow`: **login/register/logo
 
 <br />
 
-## Quick-start 
+## ✨ Quick-start 
 
 > Start the Flask API using `Docker`
 
@@ -75,7 +77,7 @@ The product is built using a `two-tier` pattern where the React frontend is deco
 
 <br />
 
-## Manual build
+## ✨ Manual build
 
 ### Start the Flask API 
 
@@ -138,7 +140,7 @@ const config = {
 
 <br />
 
-## API
+## ✨ API
 
 For a fast set up, use this POSTMAN file: [api_sample](https://github.com/app-generator/api-server-unified/blob/main/api.postman_collection.json)
 
@@ -185,7 +187,7 @@ authorization: JWT_TOKEN (returned by Login request)
 
 <br />
 
-## Product UI
+## ✨ Product UI
 
 > **Flask React Soft UI Dashboard** - Login 
 
