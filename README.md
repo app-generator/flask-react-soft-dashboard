@@ -31,7 +31,6 @@ The product comes with a simple `JWT authentication flow`: **login/register/logo
 
 <br />
 
-
 ## Quick-start 
 
 > Clone/Download the source code
