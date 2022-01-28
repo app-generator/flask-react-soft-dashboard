@@ -33,14 +33,6 @@ The product comes with a simple `JWT authentication flow`: **login/register/logo
 
 ## Quick-start 
 
-> Clone/Download the source code
-
-```bash
-$ git clone  https://github.com/app-generator/flask-react-soft-dashboard.git
-```
-
-<br />
-
 > Start the Flask API using `Docker`
 
 ```bash
