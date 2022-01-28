@@ -7,7 +7,7 @@ The product comes with a simple `JWT authentication flow`: **login/register/logo
 
 > Features
 
-- Innovative **Material UI** Design - Creafted by [Creative-Tim](https://bit.ly/3fKQZaL)
+- Innovative **Material UI** Design - Crafted by [Creative-Tim](https://bit.ly/3fKQZaL)
 - React, Redux, Redux-persist
 - Authentication: JWT Login/Register/Logout
 - **Full-stack Ready** using a **Flask API Server** (open-source project) - Server Features
