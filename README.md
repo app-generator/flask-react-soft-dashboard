@@ -21,7 +21,18 @@ The product comes with a simple `JWT authentication flow`: **login/register/logo
 
 <br />
 
-## Quick-start in Docker
+> React UI Tests:
+
+| NodeJS | NPM | YARN | Status | 
+| --- | --- | --- | --- | 
+| `v16.13.0` | `v8.1.0`   | `v1.22.5` | ✔️ | 
+| `v14.15.0` | `v6.14.8`  | `v1.22.5` | ✔️ |
+| `v12.22.0` | `v6.14.11` | `v1.22.5` | ✔️ |
+
+<br />
+
+
+## Quick-start 
 
 > Clone/Download the source code
 
@@ -31,13 +42,11 @@ $ git clone  https://github.com/app-generator/flask-react-soft-dashboard.git
 
 <br />
 
-> Start the Flask API
+> Start the Flask API using `Docker`
 
 ```bash
 $ cd flask-api
-$ docker-compose pull   # download dependencies 
-$ docker-compose build  # local set up
-$ docker-compose up     # start the app 
+$ docker-compose up --build  
 ```
 
 At this point, the API should be up & running at `http://localhost:5000`, and we can test the interface using POSTMAN or `curl`.
@@ -48,9 +57,8 @@ At this point, the API should be up & running at `http://localhost:5000`, and we
 
 ```bash
 $ cd react-ui
-$ docker-compose pull   # download dependencies 
-$ docker-compose build  # local set up
-$ docker-compose up     # start the app 
+$ yarn         # install dependencies
+$ yarn start   # start the app 
 ```
 
 Once all the above commands are executed, the `React UI` should be visible in the browser. By default, the app redirects the guest users to authenticate. 

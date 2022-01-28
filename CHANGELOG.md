@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.1] 2022-01-28
+### Improvements
+
+- Minor changes (Flask API & React)
+
 ## [1.0.0] 2021-11-18
 ### Initial Release
 
