@@ -19,7 +19,7 @@ The product comes with a simple `JWT authentication flow`: **login/register/logo
 
 - 👉 [Flask React Soft UI Dashboard](https://appseed.us/product/flask-react-soft-dashboard) - product page
 - 👉 [Flask React Soft UI Dashboard](https://flask-react-soft-dashboard.appseed-srv1.com/authentication/sign-in) - LIVE Demo
-- 👉 Free Support via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup).
+- 👉 Free [Support](https://appseed.us/support) via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
