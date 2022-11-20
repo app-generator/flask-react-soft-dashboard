@@ -1,4 +1,4 @@
-# [Flask React Soft Dashboard](https://appseed.us/product/flask-react-soft-dashboard)
+# [Flask React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-flask/react/)
 
 Start your development with an Innovative Admin Template for **Material-UI** and **React**. `Soft UI Dashboard` is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. 
 The product comes with a simple `JWT authentication flow`: **login/register/logout**. 
