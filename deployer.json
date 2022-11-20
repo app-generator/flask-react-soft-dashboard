@@ -1,0 +1,5 @@
+{
+    "name": "fullstack-react-soft-ui-dashboard",
+    "type": "fullstack",
+    "dirs": "api-server-flask, react-ui"
+}
