@@ -106,7 +106,6 @@ $ yarn start
 
 At this point, the app is available in the browser `localhost:3000` (the default address).
 
-
 <br /> 
 
 ### 👉 Start the Backend Server 
@@ -175,10 +174,6 @@ Use the API via `POSTMAN` or `Swagger Dashboard` at `localhost:5000`.
     ├── run.py
     └── tests.py
 ```
-
-<br />
-
-
 
 <br />
 
